@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=120&section=header&fontColor=D4AF37" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=04042C&height=120&section=header&fontColor=E9E8F2" width="100%"/>
 
 ```
  ██╗   ██╗██╗████████╗ ██████╗ ██████╗
@@ -17,9 +17,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=D4AF37)](https://linkedin.com/in/vitorgrowth/)
-[![Instagram](https://img.shields.io/badge/@ovitor.ia-0B1F3A?style=for-the-badge&logo=instagram&logoColor=D4AF37)](https://instagram.com/ovitor.ia)
-![Location](https://img.shields.io/badge/Manaus%2C_AM_–_Brazil-0B1F3A?style=for-the-badge&logoColor=D4AF37)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-04042C?style=for-the-badge&logo=linkedin&logoColor=E9E8F2)](https://linkedin.com/in/vitorgrowth/)
+[![Instagram](https://img.shields.io/badge/@ovitor.ia-04042C?style=for-the-badge&logo=instagram&logoColor=E9E8F2)](https://instagram.com/ovitor.ia)
+![Location](https://img.shields.io/badge/Manaus%2C_AM_–_Brazil-04042C?style=for-the-badge&logoColor=E9E8F2)
 
 </div>
 
@@ -127,17 +127,17 @@ Official startup platform focused on digital accessibility and inclusion, presen
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-0B1F3A?style=flat-square&logo=html5&logoColor=D4AF37)
-![CSS3](https://img.shields.io/badge/CSS3-0B1F3A?style=flat-square&logo=css3&logoColor=D4AF37)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1F3A?style=flat-square&logo=javascript&logoColor=D4AF37)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1F3A?style=flat-square&logo=typescript&logoColor=D4AF37)
-![React](https://img.shields.io/badge/React-0B1F3A?style=flat-square&logo=react&logoColor=D4AF37)
-![Next.js](https://img.shields.io/badge/Next.js-0B1F3A?style=flat-square&logo=nextdotjs&logoColor=D4AF37)
-![Node.js](https://img.shields.io/badge/Node.js-0B1F3A?style=flat-square&logo=nodedotjs&logoColor=D4AF37)
-![Supabase](https://img.shields.io/badge/Supabase-0B1F3A?style=flat-square&logo=supabase&logoColor=D4AF37)
-![Firebase](https://img.shields.io/badge/Firebase-0B1F3A?style=flat-square&logo=firebase&logoColor=D4AF37)
-![Python](https://img.shields.io/badge/Python-0B1F3A?style=flat-square&logo=python&logoColor=D4AF37)
-![Figma](https://img.shields.io/badge/Figma-0B1F3A?style=flat-square&logo=figma&logoColor=D4AF37)
+![HTML5](https://img.shields.io/badge/HTML5-04042C?style=flat-square&logo=html5&logoColor=E9E8F2)
+![CSS3](https://img.shields.io/badge/CSS3-04042C?style=flat-square&logo=css3&logoColor=E9E8F2)
+![JavaScript](https://img.shields.io/badge/JavaScript-04042C?style=flat-square&logo=javascript&logoColor=E9E8F2)
+![TypeScript](https://img.shields.io/badge/TypeScript-04042C?style=flat-square&logo=typescript&logoColor=E9E8F2)
+![React](https://img.shields.io/badge/React-04042C?style=flat-square&logo=react&logoColor=E9E8F2)
+![Next.js](https://img.shields.io/badge/Next.js-04042C?style=flat-square&logo=nextdotjs&logoColor=E9E8F2)
+![Node.js](https://img.shields.io/badge/Node.js-04042C?style=flat-square&logo=nodedotjs&logoColor=E9E8F2)
+![Supabase](https://img.shields.io/badge/Supabase-04042C?style=flat-square&logo=supabase&logoColor=E9E8F2)
+![Firebase](https://img.shields.io/badge/Firebase-04042C?style=flat-square&logo=firebase&logoColor=E9E8F2)
+![Python](https://img.shields.io/badge/Python-04042C?style=flat-square&logo=python&logoColor=E9E8F2)
+![Figma](https://img.shields.io/badge/Figma-04042C?style=flat-square&logo=figma&logoColor=E9E8F2)
 
 </div>
 
@@ -152,6 +152,6 @@ Official startup platform focused on digital accessibility and inclusion, presen
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=04042C&height=80&section=footer" width="100%"/>
 
 </div>
