@@ -49,7 +49,7 @@ SaaS for small thrift stores and clothing shops to catalog products, build digit
 
 `SaaS` `E-commerce` `Payments`
 
-`Status: privado`
+`Status: em desenvolvimento` · [Deploy →](https://bipa-one.vercel.app/)
 
 </td>
 <td width="50%">
@@ -59,7 +59,9 @@ Sports platform connecting players to arenas, open matches and local games — w
 
 `Marketplace` `ERP` `Sports Tech`
 
-`Status: privado`
+`Player app: Joga-a-`  
+`Dashboard/ERP: MatchDesk`  
+`Status: privado / em organização`
 
 </td>
 </tr>
@@ -71,7 +73,7 @@ Adaptable answer sheet reader that auto-detects custom card layouts and corrects
 
 `Computer Vision` `OCR` `EdTech`
 
-`Status: privado`
+`Status: sem deploy público ainda`
 
 </td>
 <td width="50%">
@@ -81,7 +83,7 @@ AI-powered study ecosystem: personalized schedules, learning paths, certificate 
 
 `AI` `Education` `Automation`
 
-`Status: privado`
+`Status: privado / em desenvolvimento`
 
 </td>
 </tr>
@@ -93,7 +95,7 @@ Gamified career guidance platform that uses user decisions and AI to suggest pro
 
 `Gamification` `AI` `EdTech`
 
-`Status: privado`
+`Status: deploy em ajuste` · [Deploy →](https://questcareer-srkays-projects.vercel.app/)
 
 </td>
 <td width="50%">
@@ -103,7 +105,7 @@ Official startup platform focused on digital accessibility and inclusion, presen
 
 `Accessibility` `Startup` `Social Tech`
 
-`Status: em desenvolvimento` · [Ver repositório →](https://github.com/Vitt2909/accesssite-firebase)
+`Status: em desenvolvimento` · [Deploy →](https://accesssite-firebase.vercel.app/) · [Ver repositório →](https://github.com/Vitt2909/accesssite-firebase)
 
 </td>
 </tr>
