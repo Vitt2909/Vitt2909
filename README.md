@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=04042C&height=120&section=header&fontColor=E9E8F2" width="100%"/>
 
-<img src="./assets/logo.png" alt="VM monogram logo" width="420"/>
+<img src="./assets/vm-monogram-2026.png" alt="VM monogram logo" width="420"/>
 
 ### **Founder · SaaS Builder · Accessibility Tech · AI & Product Strategy**
 
