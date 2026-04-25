@@ -2,14 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=04042C&height=120&section=header&fontColor=E9E8F2" width="100%"/>
 
-```
- ██╗   ██╗██╗████████╗ ██████╗ ██████╗
- ██║   ██║██║╚══██╔══╝██╔═══██╗██╔══██╗
- ██║   ██║██║   ██║   ██║   ██║██████╔╝
- ╚██╗ ██╔╝██║   ██║   ██║   ██║██╔══██╗
-  ╚████╔╝ ██║   ██║   ╚██████╔╝██║  ██║
-   ╚═══╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-```
+<img src="./assets/logo.jpg" alt="VM monogram logo" width="420"/>
 
 ### **Founder · SaaS Builder · Accessibility Tech · AI & Product Strategy**
 
@@ -36,16 +29,12 @@ Scholar at **Santander Imersão Digital**, Future Skills and AI track.
 
 ---
 
-## Focus Areas
+## Now
 
-```
-  ◈  SaaS Products & Digital Commerce
-  ◈  Accessibility Technology (eMAG · W3C · WCAG)
-  ◈  Artificial Intelligence Applied to Education
-  ◈  Product Strategy & UX
-  ◈  Local Innovation with Scalable Impact
-  ◈  Computer Vision & Automation Systems
-```
+→ Building Access Platform through Samsung OceanLab #10 (Manaus, 2026)  
+→ Developing an OCR-based answer sheet reader for real classroom use  
+→ Freelancing web projects for B2B clients in Manaus  
+→ Studying applied AI and digital strategy
 
 ---
 
@@ -60,6 +49,8 @@ SaaS for small thrift stores and clothing shops to catalog products, build digit
 
 `SaaS` `E-commerce` `Payments`
 
+`Status: privado`
+
 </td>
 <td width="50%">
 
@@ -67,6 +58,8 @@ SaaS for small thrift stores and clothing shops to catalog products, build digit
 Sports platform connecting players to arenas, open matches and local games — with a full ERP/dashboard for arena owners.
 
 `Marketplace` `ERP` `Sports Tech`
+
+`Status: privado`
 
 </td>
 </tr>
@@ -78,6 +71,8 @@ Adaptable answer sheet reader that auto-detects custom card layouts and corrects
 
 `Computer Vision` `OCR` `EdTech`
 
+`Status: privado`
+
 </td>
 <td width="50%">
 
@@ -85,6 +80,8 @@ Adaptable answer sheet reader that auto-detects custom card layouts and corrects
 AI-powered study ecosystem: personalized schedules, learning paths, certificate management and free course discovery.
 
 `AI` `Education` `Automation`
+
+`Status: privado`
 
 </td>
 </tr>
@@ -96,6 +93,8 @@ Gamified career guidance platform that uses user decisions and AI to suggest pro
 
 `Gamification` `AI` `EdTech`
 
+`Status: privado`
+
 </td>
 <td width="50%">
 
@@ -103,6 +102,8 @@ Gamified career guidance platform that uses user decisions and AI to suggest pro
 Official startup platform focused on digital accessibility and inclusion, presenting projects, tools and content aligned with eMAG and WCAG standards.
 
 `Accessibility` `Startup` `Social Tech`
+
+`Status: em desenvolvimento` · [Ver repositório →](https://github.com/Vitt2909/accesssite-firebase)
 
 </td>
 </tr>
@@ -112,14 +113,9 @@ Official startup platform focused on digital accessibility and inclusion, presen
 
 ## Background
 
-- **Founder** — Access Platform (accessibility tech startup)
-- **Samsung OceanLab #10** — Pre-acceleration program, EST/UEA, Manaus (2026)
-- **Santander Imersão Digital** — Scholar, Future Skills and AI track
-- **Escola DNC** — Product Management · Product Analytics · UX Prototyping
-- **Enap** — eMAG Content Specialist (accessibility, W3C, WCAG) · Design Thinking · Leadership
-- **Fundação Bradesco** — Business Strategy & Project Management
-- **Sebrae** — Communication & Leadership
-- **Freelance Web Developer** — Landing pages, dashboards and systems for B2B clients
+Founder of **Access Platform** · Samsung OceanLab #10 (2026)  
+Freelance web dev · B2B clients, landing pages, dashboards and systems  
+Santander Imersão Digital · Future Skills and AI track
 
 ---
 
@@ -143,10 +139,8 @@ Official startup platform focused on digital accessibility and inclusion, presen
 
 ---
 
-## Vision
-
-> *Technology should not only be efficient.*  
-> *It should be accessible, strategic and capable of turning local problems into scalable digital products.*
+> *Manaus is further from Silicon Valley than most people think.*  
+> *That's exactly why I build here.*
 
 ---
 
