@@ -1,18 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=04042C&height=120&section=header&fontColor=E9E8F2" width="100%"/>
+<img src="./assets/vm-monogram-2026.png" alt="VM — Vítor Magalhães" width="280" />
 
-<img src="./assets/vm-monogram-2026.png" alt="VM monogram logo" width="420"/>
+# Vítor Magalhães
 
-### **Founder · SaaS Builder · Accessibility Tech · AI & Product Strategy**
+**FOUNDER & PRODUCT BUILDER**  
+SaaS · Applied AI · Accessibility · Business systems
 
-*Building digital products at the intersection of accessibility, artificial intelligence, education and business strategy.*
+I turn operational problems into digital products — from the first workflow to the systems behind it.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-04042C?style=for-the-badge&logo=linkedin&logoColor=E9E8F2)](https://www.linkedin.com/in/vitorgrowth/)
+[![GVM Digital](https://img.shields.io/badge/GVM_Digital-04042C?style=for-the-badge&logo=github&logoColor=E9E8F2)](https://github.com/Vitt2909/gvm)
+[![Instagram](https://img.shields.io/badge/@ovitor.ia-04042C?style=for-the-badge&logo=instagram&logoColor=E9E8F2)](https://www.instagram.com/ovitor.ia/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-04042C?style=for-the-badge&logo=linkedin&logoColor=E9E8F2)](https://linkedin.com/in/vitorgrowth/)
-[![Instagram](https://img.shields.io/badge/@ovitor.ia-04042C?style=for-the-badge&logo=instagram&logoColor=E9E8F2)](https://instagram.com/ovitor.ia)
-![Location](https://img.shields.io/badge/Manaus%2C_AM_–_Brazil-04042C?style=for-the-badge&logoColor=E9E8F2)
+<sub>Manaus, Amazonas · Brazil</sub>
+
+<br /><br />
+
+[About](#about) · [Building now](#building-now) · [Contributions](#contributions) · [Public projects](#public-projects) · [Stack](#stack)
 
 </div>
 
@@ -20,134 +25,199 @@
 
 ## About
 
-I'm Vítor Magalhães — founder, product builder and strategist.
+I'm a founder and product builder working across **product strategy, software development and applied AI**. I build tools for small businesses, educators and everyday operations, with particular attention to accessibility and the experience on a phone.
 
-I build digital products for real problems: from SaaS tools for small businesses to AI-powered education systems and accessibility-first platforms. My work lives at the intersection of product thinking, business strategy and technical execution.
+- **Co-founder of GVM Digital**, responsible for technology and product: websites, business applications and internal tools.
+- **Founder of Access Platform**, focused on digital inclusion and accessibility.
+- **Samsung OceanLab #10, Manaus (2026)** · Access Platform.
+- **Santander Imersão Digital** · Future Skills and AI track.
 
-Founder of **[Access Platform](https://github.com/Vitt2909/accesssite-firebase)** — an accessibility-focused startup currently accelerated by **Samsung OceanLab** at EST/UEA, Manaus.  
-Scholar at **Santander Imersão Digital**, Future Skills and AI track.
+My work spans product specifications, interface design, database rules, implementation, testing and delivery. I use AI coding tools throughout that process, with explicit requirements, review and validation.
 
----
-
-## Now
-
-→ Building Access Platform through Samsung OceanLab #10 (Manaus, 2026)  
-→ Developing an OCR-based answer sheet reader for real classroom use  
-→ Freelancing web projects for B2B clients in Manaus  
-→ Studying applied AI and digital strategy
-
----
-
-## Pinned Projects
+## Building now
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛍 BIPA
-SaaS for small thrift stores and clothing shops to catalog products, build digital storefronts and sell through integrated payments (Stripe · Pix).
+### 01 / DonaGiro
+**Sales, receivables & consignment**
 
-`SaaS` `E-commerce` `Payments`
+Evolving Meus Devedores into a mobile-first product for sellers: customers, stock, installment sales, partial payments and account statements.
 
-`Status: em desenvolvimento` · [Deploy →](https://bipa-one.vercel.app/)
+Recent work includes conversational and voice-assisted workflows, configurable installments, Web Push notifications, and consignment shipments and settlements.
 
-</td>
-<td width="50%">
+<sub>Next.js · TypeScript · PostgreSQL · Supabase · PWA</sub>
 
-### 🏟 Match Arena
-Sports platform connecting players to arenas, open matches and local games — with a full ERP/dashboard for arena owners.
-
-`Marketplace` `ERP` `Sports Tech`
-
-`Player app: Joga-a-`  
-`Dashboard/ERP: MatchDesk`  
-`Status: privado / em organização`
+**Stage:** active development and validation.  
+<sub>Private codebase.</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📋 Answer Card Reader
-Adaptable answer sheet reader that auto-detects custom card layouts and corrects them from scanned images. Built for a real school use case.
+### 02 / Access Platform & Adapto
+**Accessibility in the classroom**
 
-`Computer Vision` `OCR` `EdTech`
+Building tools that help teachers adapt learning materials to students' support needs.
 
-`Status: sem deploy público ainda`
+Adapto work includes photo/PDF input, editable adaptations, explanations of the pedagogical choices, batch generation by profile, a reusable library and account synchronization.
 
-</td>
-<td width="50%">
+<sub>React · TypeScript · Applied AI · Supabase</sub>
 
-### 📚 Nexus Study OS
-AI-powered study ecosystem: personalized schedules, learning paths, certificate management and free course discovery.
-
-`AI` `Education` `Automation`
-
-`Status: privado / em desenvolvimento`
+**Stage:** evolving educational product.  
+<sub>Private codebases.</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎮 QuestCareer
-Gamified career guidance platform that uses user decisions and AI to suggest professional paths for students.
+### 03 / V.K — Viktor Kernel
+**A personal, local-first agent system**
 
-`Gamification` `AI` `EdTech`
+A native macOS installer and operational runtime for local AI: model setup, a resident daemon, persistent jobs, a command-line interface and policy-controlled actions.
 
-`Status: deploy em ajuste` · [Deploy →](https://questcareer-srkays-projects.vercel.app/)
+The installer also covers diagnostics, repair, updates and rollback.
+
+<sub>Swift · SwiftUI · Ollama · macOS · CLI</sub>
+
+**Stage:** operational development; public release pending.  
+<sub>Private codebase.</sub>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ♿ Access Platform
-Official startup platform focused on digital accessibility and inclusion, presenting projects, tools and content aligned with eMAG and WCAG standards.
+### 04 / Kadro & KadroDesk
+**Sports participation meets arena management**
 
-`Accessibility` `Startup` `Social Tech`
+Kadro explores match discovery, sports activity and player history. KadroDesk brings court scheduling, reservations, check-in, customer management and point of sale into one interface.
 
-`Status: em desenvolvimento` · [Deploy →](https://accesssite-firebase.vercel.app/) · [Ver repositório →](https://github.com/Vitt2909/accesssite-firebase)
+Dedicated layouts cover desktop, tablet and mobile.
+
+<sub>React · TypeScript · Vite · Responsive UI</sub>
+
+**Stage:** prototypes; KadroDesk uses demo data.  
+<sub>Private codebases · formerly JogaAê / MatchDesk.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05 / GVM Digital & GVM Intern
+**The business and its operating tools**
+
+Building GVM's public website and client-facing experiences, alongside an internal commercial workspace for pipeline, proposals, follow-up and access planning.
+
+Recent public work includes landing pages, pre-rendering and structured metadata.
+
+<sub>React · Next.js · TypeScript · Vercel</sub>
+
+**Stage:** public website + CRM frontend prototype.  
+[Explore GVM →](https://github.com/Vitt2909/gvm)  
+<sub>GVM Intern is private and currently uses mock data.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 06 / Fleet operations
+**Fuel, equipment & reporting**
+
+Developing a multiuser fleet management application with refueling records, receipt attachments, equipment history and audit trails.
+
+Reports cover monthly and annual consumption, costs, fleet comparisons, and efficiency in km/L and L/h.
+
+<sub>Next.js · TypeScript · Supabase · PostgreSQL</sub>
+
+**Stage:** implemented workflows under ongoing maintenance.  
+<sub>Private client project.</sub>
 
 </td>
 </tr>
 </table>
 
----
+<sub>Project snapshot: September 2026. Private projects are described at product level; public source links appear where available.</sub>
 
-## Background
+## Contributions
 
-Founder of **Access Platform** · Samsung OceanLab #10 (2026)  
-Freelance web dev · B2B clients, landing pages, dashboards and systems  
-Santander Imersão Digital · Future Skills and AI track
+### Collaboration beyond my own repositories
 
----
+**[jeans3004/sociais-projetos](https://github.com/jeans3004/sociais-projetos)** — a social-project application with donation management, reporting and a public transparency portal.
 
-## Tech Stack
+**24 authored pull requests merged**, verified on **September 13, 2026**. Selected contributions:
+
+| Area | Contribution | Merged PRs |
+| :--- | :--- | :--- |
+| Public transparency | Donation indicators, audit timeline, navigation and interface improvements | [#2](https://github.com/jeans3004/sociais-projetos/pull/2) · [#4](https://github.com/jeans3004/sociais-projetos/pull/4) · [#23](https://github.com/jeans3004/sociais-projetos/pull/23) |
+| Donation workflows | Editing records, donation details and synchronized student totals | [#6](https://github.com/jeans3004/sociais-projetos/pull/6) · [#9](https://github.com/jeans3004/sociais-projetos/pull/9) |
+| Data & rankings | Class rankings computed from Firebase records and correctly ordered totals | [#20](https://github.com/jeans3004/sociais-projetos/pull/20) · [#21](https://github.com/jeans3004/sociais-projetos/pull/21) |
+| Raffle management | Firestore integration, transactional tickets, draw controls and campaign validation | [#22](https://github.com/jeans3004/sociais-projetos/pull/22) · [#26](https://github.com/jeans3004/sociais-projetos/pull/26) |
+| Architecture & usability | Client/server component separation and a searchable help center | [#25](https://github.com/jeans3004/sociais-projetos/pull/25) · [#18](https://github.com/jeans3004/sociais-projetos/pull/18) |
+
+[Browse my merged contributions to this project →](https://github.com/jeans3004/sociais-projetos/pulls?q=is%3Apr+author%3AVitt2909+is%3Amerged)
+
+### Recent work across my products
+
+| Period | Project | Work integrated into the repository |
+| :--- | :--- | :--- |
+| Sep 2026 | **DonaGiro** | Transactional sales and payments, conversational UI, Web Push, custom installments and the consignment cycle |
+| Sep 2026 | **Fleet operations** | Receipt handling, audit history, fleet reports and mobile navigation accessibility fixes |
+| Sep 2026 | **GVM Digital** | Campaign landing page and pre-rendering with structured metadata — [#1](https://github.com/Vitt2909/gvm/pull/1), [#2](https://github.com/Vitt2909/gvm/pull/2) |
+| Aug 2026 | **Viktor Kernel** | Operational runtime, persistent jobs, installer lifecycle and release tooling |
+| Jul 2026 | **Adapto** | Photo input, batch adaptations, pedagogical explanations, account sync and a personal dashboard |
+
+<sub>Integrated code describes repository progress; it does not imply that every feature has been released publicly.</sub>
+
+[All authored PRs →](https://github.com/pulls?q=is%3Apr+author%3AVitt2909) · [Merged PRs →](https://github.com/pulls?q=is%3Apr+author%3AVitt2909+is%3Amerged) · [Repositories →](https://github.com/Vitt2909?tab=repositories)
+
+## Public projects
+
+A selection of source code you can explore:
+
+| Project | What it demonstrates | Core tools |
+| :--- | :--- | :--- |
+| [**GVM Digital**](https://github.com/Vitt2909/gvm) | Business website, landing pages, motion and SEO implementation | React · Vite · CSS |
+| [**Nexus Churn Intelligence**](https://github.com/Vitt2909/customer-churn-prediction-python-ai) | Churn modeling, model evaluation, individual and batch predictions | Python · scikit-learn · Streamlit |
+| [**Access Sentiment Intelligence**](https://github.com/Vitt2909/portfolio-ibm-py) | Portuguese sentiment classification and YouTube comment analysis | Python · NLP · Streamlit |
+| [**Magalu Sales Intelligence**](https://github.com/Vitt2909/projeto-magalu-fashboard) | Retail KPIs, exploratory analysis and simple revenue forecasting | Python · Pandas · Plotly |
+| [**FaceLog**](https://github.com/Vitt2909/scannerbysrkay) | Local computer vision, attendance records and a web interface | Python · OpenCV · Flask · SQLite |
+| [**QuestCareer**](https://github.com/Vitt2909/questcareer) | Gamified career exploration, learning paths, quests and progress | Next.js · TypeScript · Supabase |
+
+<sub>The churn, sentiment and retail projects are learning/portfolio work with synthetic datasets. The sentiment project also supports real YouTube comments. “Magalu” names a retail case study, not a client relationship.</sub>
+
+## Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-04042C?style=flat-square&logo=html5&logoColor=E9E8F2)
-![CSS3](https://img.shields.io/badge/CSS3-04042C?style=flat-square&logo=css3&logoColor=E9E8F2)
-![JavaScript](https://img.shields.io/badge/JavaScript-04042C?style=flat-square&logo=javascript&logoColor=E9E8F2)
 ![TypeScript](https://img.shields.io/badge/TypeScript-04042C?style=flat-square&logo=typescript&logoColor=E9E8F2)
 ![React](https://img.shields.io/badge/React-04042C?style=flat-square&logo=react&logoColor=E9E8F2)
 ![Next.js](https://img.shields.io/badge/Next.js-04042C?style=flat-square&logo=nextdotjs&logoColor=E9E8F2)
-![Node.js](https://img.shields.io/badge/Node.js-04042C?style=flat-square&logo=nodedotjs&logoColor=E9E8F2)
+![Python](https://img.shields.io/badge/Python-04042C?style=flat-square&logo=python&logoColor=E9E8F2)
+![Swift](https://img.shields.io/badge/Swift-04042C?style=flat-square&logo=swift&logoColor=E9E8F2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-04042C?style=flat-square&logo=postgresql&logoColor=E9E8F2)
 ![Supabase](https://img.shields.io/badge/Supabase-04042C?style=flat-square&logo=supabase&logoColor=E9E8F2)
 ![Firebase](https://img.shields.io/badge/Firebase-04042C?style=flat-square&logo=firebase&logoColor=E9E8F2)
-![Python](https://img.shields.io/badge/Python-04042C?style=flat-square&logo=python&logoColor=E9E8F2)
-![Figma](https://img.shields.io/badge/Figma-04042C?style=flat-square&logo=figma&logoColor=E9E8F2)
 
 </div>
 
----
-
-> *Manaus is further from Silicon Valley than most people think.*  
-> *That's exactly why I build here.*
+| Focus | Tools and practices used in my projects |
+| :--- | :--- |
+| Web & interfaces | React, Next.js, Vite, TypeScript, Tailwind CSS, responsive layouts and PWAs |
+| Backend & data integrity | PostgreSQL, Supabase, Firebase, RLS, transactional operations and audit trails |
+| AI & data products | Python, Pandas, scikit-learn, Streamlit, OCR and local models with Ollama |
+| Native & automation | Swift, SwiftUI, macOS daemons, CLI tools and persistent job execution |
+| Quality & delivery | Vitest, pgTAP, GitHub Actions, Vercel, documented decisions and reproducible checks |
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=04042C&height=80&section=footer" width="100%"/>
+**Have an operational problem worth turning into a product?**
+
+[Let's talk on LinkedIn →](https://www.linkedin.com/in/vitorgrowth/)
+
+<br />
+
+<sub>Building from Manaus. Thinking in products. Following through in code.</sub>
 
 </div>
