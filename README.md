@@ -9,6 +9,7 @@ SaaS · Applied AI · Accessibility · Business systems
 
 I turn operational problems into digital products — from the first workflow to the systems behind it.
 
+[![Website](https://img.shields.io/badge/vitorfmagalhaes.dev-04042C?style=for-the-badge&logo=safari&logoColor=E9E8F2)](https://vitorfmagalhaes.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-04042C?style=for-the-badge&logo=linkedin&logoColor=E9E8F2)](https://www.linkedin.com/in/vitorgrowth/)
 [![GVM Digital](https://img.shields.io/badge/GVM_Digital-04042C?style=for-the-badge&logo=github&logoColor=E9E8F2)](https://github.com/Vitt2909/gvm)
 [![Instagram](https://img.shields.io/badge/@ovitor.ia-04042C?style=for-the-badge&logo=instagram&logoColor=E9E8F2)](https://www.instagram.com/ovitor.ia/)
